@@ -1,2 +1,7 @@
+setclipboard = function() end
+
+getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/78ffe85f0bf079c876f439c7.lua", true))()
+
+getgenv().gui = true
 loadstring(game:HttpGet("https://rawscripts.net/raw/Eclipse-Hub_805"))()
